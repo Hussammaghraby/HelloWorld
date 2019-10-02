@@ -1,0 +1,14 @@
+ Volume in drive C is SOE
+ Volume Serial Number is 0EFF-4391
+
+ Directory of C:\Javaproject
+
+10/02/2019  08:02 AM    <DIR>          .
+10/02/2019  08:02 AM    <DIR>          ..
+10/02/2019  08:02 AM                 0 DeadPool.txt
+10/02/2019  07:51 AM               479 HelloWorld.class
+09/30/2019  12:42 PM               139 HelloWorld.java
+10/01/2019  11:41 AM               497 index.html
+10/01/2019  11:38 AM               446 readme.txt
+               5 File(s)          1,561 bytes
+               2 Dir(s)  161,044,627,456 bytes free
